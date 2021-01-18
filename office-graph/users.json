@@ -1,4 +1,8 @@
 {
+	
+	"me": 
+		"url": "https://graph.microsoft.com/v1.0/me"
+	},
 	"manager": {
 		"url": "https://graph.microsoft.com/v1.0/me/manager",
 		"method": "GET",
