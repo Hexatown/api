@@ -1,0 +1,11 @@
+{
+	"manager": {
+		"url": "https://graph.microsoft.com/v1.0/me/manager",
+		"method": "GET",
+		"docsrawUrl": "https://raw.githubusercontent.com/microsoftgraph/microsoft-graph-docs/master/api-reference/v1.0/api/user-list-manager.md",
+		"docsUrl": "https://docs.microsoft.com/en-us/graph/api/user-list-manager?view=graph-rest-1.0&tabs=http",
+		"delegatepermissions": "User.Read.All, User.ReadWrite.All, Directory.Read.All, Directory.ReadWrite.All, Directory.AccessAsUser.All",
+		"apppermissions": "User.Read.All, User.ReadWrite.All, Directory.Read.All, Directory.ReadWrite.All"
+	}
+
+}
